@@ -1,5 +1,5 @@
 <h1 align="center">Rocketpay</h1>
-<h3 align="center">NLW#04 Elixir - An API to handle payments rocket 🚀</h3>
+<h3 align="center">NLW#04 Elixir - An API to handle payments 🚀</h3>
 
 <h4 align="center"> 
 	🚧  Under development  🚧
